@@ -1,3 +1,4 @@
+"use client";
 import { SyncToggleOption } from "@/components/sync-toggle-option"
 
 export default function Home() {
